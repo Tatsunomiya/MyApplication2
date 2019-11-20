@@ -8,5 +8,11 @@
     tools:context="tatsunomiya.com.myapplication.MainActivity">
 
 
+    <TextView
+        android:text="Hello Android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
 
 </android.support.constraint.ConstraintLayout>
